@@ -1,6 +1,6 @@
 package hw4;
 
-public class arrayReader {
+public class ArrayReader {
 
 	public static void main(String[] args) {
 

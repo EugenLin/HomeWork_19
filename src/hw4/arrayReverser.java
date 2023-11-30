@@ -1,6 +1,6 @@
 package hw4;
 
-public class arrayReverser {
+public class ArrayReverser {
 
 	public static void main(String[] args) {
 		String s = "Hello World";

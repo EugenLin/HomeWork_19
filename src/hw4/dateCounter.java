@@ -3,7 +3,7 @@ package hw4;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class dateCounter {
+public class DateCounter {
 	public static void main(String[] args) {
 		int year, month, date;
 		boolean validDate = true;

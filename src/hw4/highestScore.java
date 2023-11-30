@@ -1,6 +1,6 @@
 package hw4;
 
-public class highestScore {
+public class HighestScore {
 
 	public static void main(String[] args) {
 

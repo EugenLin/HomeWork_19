@@ -2,7 +2,7 @@ package hw4;
 
 import java.util.StringJoiner;
 
-public class charCounter {
+public class CharCounter {
 
 	public static void main(String[] args) {
 		String[] s = { "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune" };

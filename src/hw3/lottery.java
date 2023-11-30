@@ -3,7 +3,7 @@ package hw3;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class lottery {
+public class Lottery {
 
 	public static void main(String[] args) {
 		System.out.println("阿文...你這次不要哪個數字(0~9):");

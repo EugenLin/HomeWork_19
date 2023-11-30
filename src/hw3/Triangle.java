@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class hw3_triangle {
+public class Triangle {
 //=============
 	public static void main(String[] args) {
 
